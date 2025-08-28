@@ -61,28 +61,22 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
+      - degree: MSc en Ciencias de la Computación
         university: University of London
         time: 2011 - 2012
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
+          - Especialización en Inteligencia Artificial y Aprendizaje Automático.
+        - Desarrollo de tesis enfocada en Procesamiento de Lenguaje Natural (NLP).
+        - Colaboración en investigaciones sobre sistemas distribuidos y computación en la nube.
+        - Participación en proyectos con la industria aplicando tecnologías de big data.
+      - degree: BSc en Matemáticas Aplicadas
         university: Bristol University
         time: 2007 - 2011
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+         - Enfoque en análisis numérico, estadística y modelado matemático.
+        - Investigación en algoritmos de optimización.
+        - Elaboración de disertación sobre procesos estocásticos.
+        - Miembro activo de la Sociedad de Matemáticas y apoyo en tutorías a estudiantes de pregrado.
 
 experiences:
     title: Experiences
