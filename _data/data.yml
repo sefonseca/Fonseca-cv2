@@ -57,12 +57,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Ingeniero de software con 3+ años de experiencia en desarrollo web y apps. Especializado en Jekyll, HTML/CSS y JavaScript, con interés en buenas prácticas de control de versiones y despliegue continuo. Experiencia diseñando micro-sitios y optimizando flujos de trabajo colaborativos. Busco roles donde aplicar liderazgo técnico y mejorar la experiencia del usuario.
 education:
     title: Education
     info:
